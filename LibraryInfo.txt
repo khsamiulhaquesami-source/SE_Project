@@ -1,0 +1,8 @@
+Name:Khandakar Samiul Haque
+Id:25-60750-1
+Section:S
+Department: CSE
+Book Records :
+Introductin to Computer Science
+English Writting 
+Introduction to Database Management System
